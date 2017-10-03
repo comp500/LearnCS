@@ -1,3 +1,5 @@
+[< Go back](/)
+
 # Denary
 ### What is Denary?
 
