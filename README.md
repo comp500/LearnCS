@@ -9,4 +9,4 @@ Our *upcoming* content will use the [7517 AQA Syllabus](http://www.aqa.org.uk/su
 - [Mark Schemes](http://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517/assessment-resources)
 
 ### Index
-1. [Denary](denary.html)
+1. [Binary](binary.html)
